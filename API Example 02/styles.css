@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgb(226, 226, 226);
+    line-height: 1.6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#root {
+    background-color: #d6d6d6;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    max-width: 300px;
+    box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
+}
+
+img {
+    max-width: 200px;
+}
+
+.container {
+    padding: 20px;
+}
+
+h2, p {
+    margin: 0;
+}
+
+p {
+    background-color: rgb(214, 214, 212);
+    margin: 2px;
+}
